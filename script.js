@@ -37,16 +37,16 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Flutter Developer", "Electrical Engineer", "Blogger", "Web Designer", "Traveller"],
-        typeSpeed: 100,
-        backSpeed: 60,
+        strings: ["an Electrical Engineer", "a Blogger", "learning Web Development", "a Traveller"],
+        typeSpeed: 40,
+        backSpeed: 30,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Flutter Developer", "Electrical Engineer", "Blogger", "Web Designer", "Traveller"],
-        typeSpeed: 100,
-        backSpeed: 60,
+        strings: ["an Electrical Engineer", "a Blogger", "learning Web Development", "a Traveller"],
+        typeSpeed: 40,
+        backSpeed: 30,
         loop: true
     });
 
