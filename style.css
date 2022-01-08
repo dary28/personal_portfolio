@@ -364,7 +364,7 @@ section .title::after{
     background: crimson;
 }
 .skills-content .right .flutter::before{
-    width: 60%;
+    width: 40%;
 }
 .skills-content .right .c::before{
     width: 50%;
